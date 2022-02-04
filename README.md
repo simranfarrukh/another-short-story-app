@@ -3,7 +3,7 @@
 Another version of a short story app. A bit prettier, with SNS links, footer and introduction bar. Version 2.0 of a react native app for short stories (w.i.p.)
 
 ## Requirements:
-Install the Expo Go app on your phone (Android or iOS):
+Install the Expo Go app on your phone (Android or iOS) to simulate the app experience.
 
 ## Usage
 
